@@ -1,4 +1,4 @@
-# Fullstack software developer assignment
+# Fullstack Django React Frontend Docker Medical Listings
 
 # Prerequisites/requirements
 Make sure you have docker installed on your local system
